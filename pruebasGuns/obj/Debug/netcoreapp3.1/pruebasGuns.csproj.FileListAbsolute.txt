@@ -1,0 +1,13 @@
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\bin\Debug\netcoreapp3.1\pruebasGuns.exe
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\bin\Debug\netcoreapp3.1\pruebasGuns.deps.json
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\bin\Debug\netcoreapp3.1\pruebasGuns.runtimeconfig.json
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\bin\Debug\netcoreapp3.1\pruebasGuns.runtimeconfig.dev.json
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\bin\Debug\netcoreapp3.1\pruebasGuns.dll
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\bin\Debug\netcoreapp3.1\pruebasGuns.pdb
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\obj\Debug\netcoreapp3.1\pruebasGuns.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\obj\Debug\netcoreapp3.1\pruebasGuns.AssemblyInfo.cs
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\obj\Debug\netcoreapp3.1\pruebasGuns.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\obj\Debug\netcoreapp3.1\pruebasGuns.dll
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\obj\Debug\netcoreapp3.1\pruebasGuns.pdb
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\obj\Debug\netcoreapp3.1\pruebasGuns.genruntimeconfig.cache
+C:\Users\franc\source\repos\pruebasGuns\pruebasGuns\obj\Debug\netcoreapp3.1\pruebasGuns.csprojAssemblyReference.cache
